@@ -1,0 +1,8 @@
+﻿<Window x:Class="MyChem_Program.Physics___Gravity.Gravity_Information"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Gravity_Information" Height="300" Width="300">
+    <Grid>
+        
+    </Grid>
+</Window>

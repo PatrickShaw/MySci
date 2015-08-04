@@ -1,0 +1,9 @@
+C:\Users\-\Documents\Programming\Science Talent Search - MyChem\Essential Modules\obj\Release\Essential Modules.csprojResolveAssemblyReference.cache
+C:\Users\-\Documents\Programming\Science Talent Search - MyChem\Essential Modules\obj\Release\UserControl - Miscellaneous\ModuleTabControl.baml
+C:\Users\-\Documents\Programming\Science Talent Search - MyChem\Essential Modules\obj\Release\UserControl - Miscellaneous\ModuleTabItem.baml
+C:\Users\-\Documents\Programming\Science Talent Search - MyChem\Essential Modules\obj\Release\UserControl - Miscellaneous\ModuleTabControl.g.cs
+C:\Users\-\Documents\Programming\Science Talent Search - MyChem\Essential Modules\obj\Release\UserControl - Miscellaneous\ModuleTabItem.g.cs
+C:\Users\-\Documents\Programming\Science Talent Search - MyChem\Essential Modules\obj\Release\UserControl - Miscellaneous\UndockedModule.g.cs
+C:\Users\-\Documents\Programming\Science Talent Search - MyChem\Essential Modules\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\-\Documents\Programming\Science Talent Search - MyChem\Essential Modules\obj\Release\Essential Modules_MarkupCompile.cache
+C:\Users\-\Documents\Programming\Science Talent Search - MyChem\Essential Modules\obj\Release\Essential Modules_MarkupCompile.lref
