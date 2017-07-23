@@ -1,8 +1,0 @@
-C:\Users\-\Documents\Programming\Science Talent Search - MyChem\Rainbow Algorithm - Patrick Shaw\bin\Debug\Rainbow Algorithm - Patrick Shaw.dll
-C:\Users\-\Documents\Programming\Science Talent Search - MyChem\Rainbow Algorithm - Patrick Shaw\bin\Debug\Rainbow Algorithm - Patrick Shaw.pdb
-C:\Users\-\Documents\Programming\Science Talent Search - MyChem\Rainbow Algorithm - Patrick Shaw\bin\Debug\Rainbow Algorithm - Patrick Shaw.xml
-C:\Users\-\Documents\Programming\Science Talent Search - MyChem\Rainbow Algorithm - Patrick Shaw\obj\Debug\Rainbow_Algorithm___Patrick_Shaw.Resources.resources
-C:\Users\-\Documents\Programming\Science Talent Search - MyChem\Rainbow Algorithm - Patrick Shaw\obj\Debug\Rainbow Algorithm - Patrick Shaw.vbproj.GenerateResource.Cache
-C:\Users\-\Documents\Programming\Science Talent Search - MyChem\Rainbow Algorithm - Patrick Shaw\obj\Debug\Rainbow Algorithm - Patrick Shaw.dll
-C:\Users\-\Documents\Programming\Science Talent Search - MyChem\Rainbow Algorithm - Patrick Shaw\obj\Debug\Rainbow Algorithm - Patrick Shaw.xml
-C:\Users\-\Documents\Programming\Science Talent Search - MyChem\Rainbow Algorithm - Patrick Shaw\obj\Debug\Rainbow Algorithm - Patrick Shaw.pdb

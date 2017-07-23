@@ -1,8 +1,0 @@
-﻿<Window x:Class="MyChem_Program.UndockedModule"
-        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
-        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        Title="UndockedModule" Height="300" Width="300" x:Name="theWindow">
-    <Window.Resources>
-        <ResourceDictionary Source="/MyChem Program;component/Styles.xaml"/>
-    </Window.Resources>
-</Window>
