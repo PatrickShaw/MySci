@@ -1,0 +1,12 @@
+﻿<UserControl x:Class="MyChem_Program.MoleculePane"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="64" Width="119.319">
+
+    <Grid x:Name="canvas" MouseDown="Molecule_Down" MouseEnter="Molecule_Enter" MouseLeave="Molecule_Leave" MouseUp="Molecule_Up">
+        <Label x:Name="txbMoleculeName" Margin="10,0"  Content="NaOH" FontSize="38" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
+    </Grid>
+</UserControl>

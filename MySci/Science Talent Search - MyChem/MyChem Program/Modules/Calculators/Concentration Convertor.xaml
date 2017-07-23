@@ -1,0 +1,49 @@
+﻿<UserControl
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:MyChem_Program="clr-namespace:MyChem_Program" x:Class="MyChem_Program.Modules.Calculators.Concentration_Convertor" 
+             mc:Ignorable="d" d:DesignWidth="900" d:DesignHeight="747">
+    <UserControl.Resources>
+        <ResourceDictionary Source="/MyChem Program;component/Styles.xaml"/>
+    </UserControl.Resources>
+    <Grid   >
+        <Grid.ColumnDefinitions>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="65*" MinHeight="65" MaxHeight="65"/>
+            <RowDefinition Height="52" MinHeight="52" MaxHeight="52"/>
+            <RowDefinition Height="167" MaxHeight="168"/>
+            <RowDefinition Height="2"/>
+            <RowDefinition Height="361*"/>
+            <RowDefinition Height="100*"/>
+        </Grid.RowDefinitions>
+        <Label Content="Concentration Convertor" VerticalContentAlignment="Center" HorizontalContentAlignment ="Center"  Margin="10,10,10,9" FontSize="28" FontWeight="Medium" Background="{x:Null}"/>
+        <Grid x:Name="MoleGrid" Height="82" Margin="10,48,162,0" Grid.Row="2" VerticalAlignment="Top" Background="{x:Null}"/>
+        <Label Content="Molecule Selected" FontSize="16" FontWeight="Bold"  VerticalAlignment="Top" Height="30" Margin="10,12,10,0" Grid.Row="2"/>
+        <Button  x:Name="btnOpenMolecule"  Grid.Row="2" HorizontalAlignment="Right" FontSize="16" Width="147" Click="btnOpenMolecule_Click" Margin="0,47,10,0" Height="82" VerticalAlignment="Top">
+            <TextBlock TextWrapping="Wrap" TextAlignment="Center">Open Molecule</TextBlock>
+        </Button>
+        <Label Content="Starting Unit:" FontSize="16" FontWeight="Bold" HorizontalAlignment="Left" Margin="10,11,0,7" Grid.Row="1" Width="130"/>
+        <ComboBox x:Name="cmbSelected" Margin="145,11,10,8" Grid.Row="1" FontSize="16" SelectionChanged="cmbSelected_SelectionChanged">
+            <ComboBoxItem IsSelected="True">Molar Concentration</ComboBoxItem>
+            <ComboBoxItem>Mass Concentration</ComboBoxItem>
+        </ComboBox>
+        <Label x:Name="lblErrorMsg" Foreground="Red" FontSize="14" Content="You need to select a molecule." Margin="10,135,-426,0" Grid.Row="2" VerticalAlignment="Top" Height="26"/>
+        <Grid x:Name="grdConcentration" Grid.Row="4" HorizontalAlignment="Stretch" VerticalAlignment="Top" Margin="10,13,10,0" Height="206.286">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="1*"/>
+                <RowDefinition Height="1*"/>
+            </Grid.RowDefinitions>
+        </Grid>
+        <Button  x:Name="btnClose"  Grid.Row="5" HorizontalAlignment="Right" FontSize="16" Width="146" Margin="0,0,10,10" Height="82" VerticalAlignment="Bottom" Click="btnClose_Click">
+            <TextBlock TextWrapping="Wrap" TextAlignment="Center"><Run Text="Close"/></TextBlock>
+        </Button>
+        <Button  x:Name="btnClearAll"  Grid.Row="5" HorizontalAlignment="Right" FontSize="16" Width="146"  Margin="0,0,162,10" Height="82" VerticalAlignment="Bottom" Click="btnClearAll_Click">
+            <TextBlock TextWrapping="Wrap" TextAlignment="Center"><Run Text="Clear All"/></TextBlock>
+        </Button>
+
+    </Grid>
+
+</UserControl>

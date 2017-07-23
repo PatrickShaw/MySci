@@ -1,0 +1,18 @@
+﻿Build started 2014-11-22 1:29:13 AM.
+     1>Project "C:\Users\-\Documents\Programming\Science Talent Search - MyChem\CGM\CGM.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D CGM_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\CGM.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt CGM.cpp
+         CGM.cpp
+     1>c:\users\-\documents\programming\science talent search - mychem\cgm\cgm.cpp(30): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\-\documents\programming\science talent search - mychem\cgm\cgm.cpp(32): warning C4018: '<' : signed/unsigned mismatch
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\-\Documents\Programming\Science Talent Search - MyChem\Debug\CGM.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\-\Documents\Programming\Science Talent Search - MyChem\Debug\CGM.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\-\Documents\Programming\Science Talent Search - MyChem\Debug\CGM.lib" /MACHINE:X86 /DLL Debug\CGM.obj
+         Debug\dllmain.obj
+         Debug\stdafx.obj
+            Creating library C:\Users\-\Documents\Programming\Science Talent Search - MyChem\Debug\CGM.lib and object C:\Users\-\Documents\Programming\Science Talent Search - MyChem\Debug\CGM.exp
+         CGM.vcxproj -> C:\Users\-\Documents\Programming\Science Talent Search - MyChem\Debug\CGM.dll
+     1>Done Building Project "C:\Users\-\Documents\Programming\Science Talent Search - MyChem\CGM\CGM.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.57

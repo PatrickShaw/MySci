@@ -1,0 +1,26 @@
+﻿<UserControl x:Class="MyChem_Program.Modules.Calculators.MolarConcentrationBox"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" Height="103.143" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" d:DesignWidth="439.5">
+    <UserControl.Resources>
+        <ResourceDictionary Source="/MyChem Program;component/Styles.xaml"></ResourceDictionary>
+    </UserControl.Resources>
+    <Grid x:Name="grid">
+        <Rectangle></Rectangle>
+        <Label Content="Molar Concentration" FontWeight="Bold" FontSize="20" HorizontalAlignment="Left" Margin="10,11,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtMolConcentration" Height="38" Margin="10,52,133.5,0"  FontSize="16" TextWrapping="Wrap" VerticalAlignment="Top" TextChanged="txtMolConcentration_TextChanged" PreviewTextInput="txtMolConcentration_PreviewTextInput"/>
+        <Label Content="mol" HorizontalAlignment="Right" Margin="0,52,85.5,13"   FontSize="16" VerticalAlignment="Center" Width="43" Height="38" RenderTransformOrigin="0.814,0.645"/>
+        <ComboBox x:Name="cmbmolLL" Margin="0,52,9.5,0" VerticalAlignment="Top" FontSize="16" Height="38" HorizontalAlignment="Right" Width="71" SelectionChanged="cmbmolLL_SelectionChanged">
+            <ComboBoxItem Content="ML^-1"/>
+            <ComboBoxItem Content="kL^-1"/>
+            <ComboBoxItem Content="L^-1" IsSelected="True"/>
+            <ComboBoxItem Content="mL^-1"/>
+            <ComboBoxItem Content="µL^-1"/>
+            <ComboBoxItem Content="nL^-1"/>
+            <ComboBoxItem Content="pL^-1"/>
+        </ComboBox>
+
+    </Grid>
+</UserControl>

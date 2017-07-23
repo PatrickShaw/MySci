@@ -1,0 +1,22 @@
+Z:\Users\-\Documents\Visual Studio 2013\Projects\Science Talent Search - MyChem\MyChem - Custom Controls Library\bin\Debug\MyChem - Custom Controls Library.dll
+Z:\Users\-\Documents\Visual Studio 2013\Projects\Science Talent Search - MyChem\MyChem - Custom Controls Library\bin\Debug\MyChem - Custom Controls Library.pdb
+Z:\Users\-\Documents\Visual Studio 2013\Projects\Science Talent Search - MyChem\MyChem - Custom Controls Library\obj\Debug\MyChem - Custom Controls Library_MarkupCompile.cache
+Z:\Users\-\Documents\Visual Studio 2013\Projects\Science Talent Search - MyChem\MyChem - Custom Controls Library\obj\Debug\MyChem - Custom Controls Library_MarkupCompile.lref
+Z:\Users\-\Documents\Visual Studio 2013\Projects\Science Talent Search - MyChem\MyChem - Custom Controls Library\obj\Debug\Themes\Generic.baml
+Z:\Users\-\Documents\Visual Studio 2013\Projects\Science Talent Search - MyChem\MyChem - Custom Controls Library\obj\Debug\MyChem - Custom Controls Library.g.resources
+Z:\Users\-\Documents\Visual Studio 2013\Projects\Science Talent Search - MyChem\MyChem - Custom Controls Library\obj\Debug\MyChem___Custom_Controls_Library.Properties.Resources.resources
+Z:\Users\-\Documents\Visual Studio 2013\Projects\Science Talent Search - MyChem\MyChem - Custom Controls Library\obj\Debug\MyChem - Custom Controls Library.csproj.GenerateResource.Cache
+Z:\Users\-\Documents\Visual Studio 2013\Projects\Science Talent Search - MyChem\MyChem - Custom Controls Library\obj\Debug\MyChem - Custom Controls Library.dll
+Z:\Users\-\Documents\Visual Studio 2013\Projects\Science Talent Search - MyChem\MyChem - Custom Controls Library\obj\Debug\MyChem - Custom Controls Library.pdb
+C:\Users\Rawr\Documents\Visual Studio 2013\Projects\Science Talent Search - MyChem\MyChem - Custom Controls Library\bin\Debug\MyChem - Custom Controls Library.dll
+C:\Users\Rawr\Documents\Visual Studio 2013\Projects\Science Talent Search - MyChem\MyChem - Custom Controls Library\bin\Debug\MyChem - Custom Controls Library.pdb
+C:\Users\Rawr\Documents\Visual Studio 2013\Projects\Science Talent Search - MyChem\MyChem - Custom Controls Library\obj\Debug\MyChem - Custom Controls Library_MarkupCompile.cache
+C:\Users\Rawr\Documents\Visual Studio 2013\Projects\Science Talent Search - MyChem\MyChem - Custom Controls Library\obj\Debug\MyChem - Custom Controls Library_MarkupCompile.lref
+C:\Users\Rawr\Documents\Visual Studio 2013\Projects\Science Talent Search - MyChem\MyChem - Custom Controls Library\obj\Debug\Themes\Generic.baml
+C:\Users\Rawr\Documents\Visual Studio 2013\Projects\Science Talent Search - MyChem\MyChem - Custom Controls Library\obj\Debug\MyChem - Custom Controls Library.g.resources
+C:\Users\Rawr\Documents\Visual Studio 2013\Projects\Science Talent Search - MyChem\MyChem - Custom Controls Library\obj\Debug\MyChem___Custom_Controls_Library.Properties.Resources.resources
+C:\Users\Rawr\Documents\Visual Studio 2013\Projects\Science Talent Search - MyChem\MyChem - Custom Controls Library\obj\Debug\MyChem - Custom Controls Library.csproj.GenerateResource.Cache
+C:\Users\Rawr\Documents\Visual Studio 2013\Projects\Science Talent Search - MyChem\MyChem - Custom Controls Library\obj\Debug\MyChem - Custom Controls Library.dll
+C:\Users\Rawr\Documents\Visual Studio 2013\Projects\Science Talent Search - MyChem\MyChem - Custom Controls Library\obj\Debug\MyChem - Custom Controls Library.pdb
+C:\Users\Rawr\Documents\Visual Studio 2013\Projects\Science Talent Search - MyChem\MyChem - Custom Controls Library\bin\Debug\MyChem - Custom Controls Library.dll.CodeAnalysisLog.xml
+C:\Users\Rawr\Documents\Visual Studio 2013\Projects\Science Talent Search - MyChem\MyChem - Custom Controls Library\bin\Debug\MyChem - Custom Controls Library.dll.lastcodeanalysissucceeded

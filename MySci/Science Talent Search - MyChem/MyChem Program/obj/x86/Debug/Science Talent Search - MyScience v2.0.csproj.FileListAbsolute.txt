@@ -1,0 +1,37 @@
+H:\Stuff\Programming\Visual Studio 2013\Science Talent Search - MyChem\MyChem Program\bin\Debug\WindowsApplication.exe.config
+H:\Stuff\Programming\Visual Studio 2013\Science Talent Search - MyChem\MyChem Program\obj\x86\Debug\Science Talent Search - MyScience v2.0.csprojResolveAssemblyReference.cache
+H:\Stuff\Programming\Visual Studio 2013\Science Talent Search - MyChem\MyChem Program\obj\x86\Debug\ChangeEmpiricalPercentage.baml
+H:\Stuff\Programming\Visual Studio 2013\Science Talent Search - MyChem\MyChem Program\obj\x86\Debug\ChangeLiveElementAmount.baml
+H:\Stuff\Programming\Visual Studio 2013\Science Talent Search - MyChem\MyChem Program\obj\x86\Debug\ElementInformation.baml
+H:\Stuff\Programming\Visual Studio 2013\Science Talent Search - MyChem\MyChem Program\obj\x86\Debug\ElementPane.baml
+H:\Stuff\Programming\Visual Studio 2013\Science Talent Search - MyChem\MyChem Program\obj\x86\Debug\Molecule Creator.baml
+H:\Stuff\Programming\Visual Studio 2013\Science Talent Search - MyChem\MyChem Program\obj\x86\Debug\MoleculeInformation.baml
+H:\Stuff\Programming\Visual Studio 2013\Science Talent Search - MyChem\MyChem Program\obj\x86\Debug\MoleculePane.baml
+H:\Stuff\Programming\Visual Studio 2013\Science Talent Search - MyChem\MyChem Program\obj\x86\Debug\PeriodicTableBrowser.baml
+H:\Stuff\Programming\Visual Studio 2013\Science Talent Search - MyChem\MyChem Program\obj\x86\Debug\Styles.baml
+H:\Stuff\Programming\Visual Studio 2013\Science Talent Search - MyChem\MyChem Program\obj\x86\Debug\Titrations Calculator.baml
+H:\Stuff\Programming\Visual Studio 2013\Science Talent Search - MyChem\MyChem Program\obj\x86\Debug\App.g.cs
+H:\Stuff\Programming\Visual Studio 2013\Science Talent Search - MyChem\MyChem Program\obj\x86\Debug\ChangeEmpiricalPercentage.g.cs
+H:\Stuff\Programming\Visual Studio 2013\Science Talent Search - MyChem\MyChem Program\obj\x86\Debug\ChangeLiveElementAmount.g.cs
+H:\Stuff\Programming\Visual Studio 2013\Science Talent Search - MyChem\MyChem Program\obj\x86\Debug\ElementInformation.g.cs
+H:\Stuff\Programming\Visual Studio 2013\Science Talent Search - MyChem\MyChem Program\obj\x86\Debug\ElementPane.g.cs
+H:\Stuff\Programming\Visual Studio 2013\Science Talent Search - MyChem\MyChem Program\obj\x86\Debug\Empirical Formula Calculations.g.cs
+H:\Stuff\Programming\Visual Studio 2013\Science Talent Search - MyChem\MyChem Program\obj\x86\Debug\Molecule Creator.g.cs
+H:\Stuff\Programming\Visual Studio 2013\Science Talent Search - MyChem\MyChem Program\obj\x86\Debug\MoleculeInformation.g.cs
+H:\Stuff\Programming\Visual Studio 2013\Science Talent Search - MyChem\MyChem Program\obj\x86\Debug\MoleculePane.g.cs
+H:\Stuff\Programming\Visual Studio 2013\Science Talent Search - MyChem\MyChem Program\obj\x86\Debug\PeriodicTableBrowser.g.cs
+H:\Stuff\Programming\Visual Studio 2013\Science Talent Search - MyChem\MyChem Program\obj\x86\Debug\Titrations Calculator.g.cs
+H:\Stuff\Programming\Visual Studio 2013\Science Talent Search - MyChem\MyChem Program\obj\x86\Debug\WindowsApplication_MarkupCompile.cache
+H:\Stuff\Programming\Visual Studio 2013\Science Talent Search - MyChem\MyChem Program\obj\x86\Debug\WindowsApplication_MarkupCompile.lref
+H:\Stuff\Programming\Visual Studio 2013\Science Talent Search - MyChem\MyChem Program\bin\Debug\WindowsApplication.exe
+H:\Stuff\Programming\Visual Studio 2013\Science Talent Search - MyChem\MyChem Program\bin\Debug\WindowsApplication.pdb
+H:\Stuff\Programming\Visual Studio 2013\Science Talent Search - MyChem\MyChem Program\obj\x86\Debug\Empirical Formula Calculations.baml
+H:\Stuff\Programming\Visual Studio 2013\Science Talent Search - MyChem\MyChem Program\obj\x86\Debug\WindowsApplication.g.resources
+H:\Stuff\Programming\Visual Studio 2013\Science Talent Search - MyChem\MyChem Program\obj\x86\Debug\Science_Talent_Search___MyScience_v2._0.Properties.Resources.resources
+H:\Stuff\Programming\Visual Studio 2013\Science Talent Search - MyChem\MyChem Program\obj\x86\Debug\Science Talent Search - MyScience v2.0.csproj.GenerateResource.Cache
+H:\Stuff\Programming\Visual Studio 2013\Science Talent Search - MyChem\MyChem Program\obj\x86\Debug\WindowsApplication.exe
+H:\Stuff\Programming\Visual Studio 2013\Science Talent Search - MyChem\MyChem Program\obj\x86\Debug\WindowsApplication.pdb
+C:\Users\-\Documents\Programming\Science Talent Search - MyChem\MyChem Program\bin\Debug\WindowsApplication.exe.config
+C:\Users\-\Documents\Programming\Science Talent Search - MyChem\MyChem Program\obj\x86\Debug\WindowsApplication.exe
+C:\Users\-\Documents\Programming\Science Talent Search - MyChem\MyChem Program\obj\x86\Debug\WindowsApplication.pdb
+C:\Users\-\Documents\Programming\Science Talent Search - MyChem\MyChem Program\obj\x86\Debug\Science Talent Search - MyScience v2.0.csprojResolveAssemblyReference.cache
